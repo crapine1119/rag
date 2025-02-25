@@ -1,3 +1,0 @@
-import faiss
-from langchain_community import vectorstores
-vectorstores.FAISS
